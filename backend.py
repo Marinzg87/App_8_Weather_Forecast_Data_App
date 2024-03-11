@@ -17,4 +17,4 @@ def get_data(place, days=None):
 
 
 if __name__ == "__main__":
-    print(get_data(place="Tokyo", days=2))
+    print(get_data(place="Zielona Gora", days=1))
